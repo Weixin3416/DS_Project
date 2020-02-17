@@ -1,0 +1,1 @@
+xtset id year
